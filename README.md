@@ -16,7 +16,7 @@
 
 - 강의: [Docker & Kubernetes : 실전 가이드](https://www.udemy.com/course/docker-kubernetes-2022/?couponCode=KEEPLEARNING)
 - 학습 중인 내용:
-   - 섹션 1: 시작하기
+   - 섹션 2: Docker 이미지 & 컨테이너: 코어 빌딩 블록
 
 ### 3. Tensorflow (Python) &nbsp;&nbsp;&nbsp; ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
