@@ -34,5 +34,5 @@
 
 - 강의: [더 자바, 애플리케이션을 테스트하는 다양한 방법](https://www.inflearn.com/course/the-java-application-test/dashboard)
 - 학습 중인 내용:
-  - 섹션 0: 1부 JUnit 5
+  - 섹션 0: 1부 JUnit 5, 섹션 1: Mockito
 
